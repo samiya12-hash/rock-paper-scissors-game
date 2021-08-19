@@ -165,6 +165,8 @@ penc.goto(160,180)
 penc.color("#390395")
 penc.write("Computer : 0", align="center", font = ("Comic Sans MS",20))
 
+
+# if you can't play the game remove the following line 
 input("Press any key to exit ...")
 
 
